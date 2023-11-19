@@ -1,0 +1,12 @@
+./data/Noon_Clear_images/13_41_22_229024.png ./data/Noon_Clear_images/13_41_22_325396.png 0
+./data/Noon_Clear_images/13_41_22_325396.png ./data/Noon_Clear_images/13_41_22_434818.png 0
+./data/Noon_Clear_images/13_41_22_434818.png ./data/Noon_Clear_images/13_41_22_532843.png 1
+./data/Noon_Cloudy_images/14_48_55_326311.png ./data/Noon_Cloudy_images/14_48_55_442070.png 0
+./data/Noon_Cloudy_images/14_48_55_442070.png ./data/Noon_Cloudy_images/14_48_55_583895.png 0
+./data/Noon_Cloudy_images/14_48_55_583895.png ./data/Noon_Cloudy_images/14_48_55_711885.png 1
+./data/Noon_HardRain_images/16_56_54_557551.png ./data/Noon_HardRain_images/16_56_54_798622.png 0
+./data/Noon_HardRain_images/16_56_54_798622.png ./data/Noon_HardRain_images/16_56_55_052823.png 0
+./data/Noon_HardRain_images/16_56_55_052823.png ./data/Noon_HardRain_images/16_56_55_307887.png 1
+./data/Noon_SoftRain_images/16_09_43_197254.png ./data/Noon_SoftRain_images/16_09_43_374444.png 0
+./data/Noon_SoftRain_images/16_09_43_374444.png ./data/Noon_SoftRain_images/16_09_43_533215.png 0
+./data/Noon_SoftRain_images/16_09_43_533215.png ./data/Noon_SoftRain_images/16_09_43_709994.png 1
